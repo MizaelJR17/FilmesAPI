@@ -26,3 +26,32 @@ C:\Users\Zaky Junior\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net5.0\ref\FilmesA
 C:\Users\Zaky Junior\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.pdb
 C:\Users\Zaky Junior\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
 C:\Users\Zaky Junior\source\repos\FilmeAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.dll
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\ref\FilmesAPI.dll
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.pdb
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.exe
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.deps.json
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.json
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.dev.json
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.dll
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\ref\FilmesAPI.dll
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.pdb
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\staticwebassets\FilmesAPI.StaticWebAssets.Manifest.cache
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\staticwebassets\FilmesAPI.StaticWebAssets.xml
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.csproj.CopyComplete
+C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache

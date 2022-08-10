@@ -6,31 +6,32 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace FilmesAPI.Controllers
-{   
+{
     [ApiController]
-    [Route ("[controller]")]
+    [Route("[controller]")]
     public class FilmeController : ControllerBase
     {
 
         private static List<Filme> filmes = new List<Filme>();
-        
+        private static int id = 1;
 
         [HttpPost]
-        public void AdicionarFilme ([FromBody]Filme filme)
+        public void AdicionarFilme([FromBody] Filme filme)
         {
+
+            filme.Id = id++;
             filmes.Add(filme);
-            Console.WriteLine(filme.Titulo);
-            Console.WriteLine(filme.Genero);
-            Console.WriteLine(filme.Diretor);
-            Console.WriteLine(filme.Duracao);        
-        
-        
+
+
         }
 
-    
-    
-    
-    
+        [HttpGet]
+        public IEnumerable<Filme> RecuperarFilmes()
+        {
+            return filmes;
+        }
+
+
     }
 
 }
