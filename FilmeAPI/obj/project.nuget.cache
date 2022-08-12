@@ -1,15 +1,52 @@
 {
   "version": 2,
-  "dgSpecHash": "9FiF0Tb7/9q48AobgVHlTxRck5xl0zSdk9Oy2CSOwekTru/5PBLsCMYrSa27Q9SgTryQsxhdGeJwAIHruPjMjw==",
+  "dgSpecHash": "93/lYGTEGmusvVTxKcJQKyOsMB2Leb4MOsAkP4Tr0rkizGdejR5+S28sW30t2TN2U3ZlqkK75ZEGNapFoblLvg==",
   "success": true,
   "projectFilePath": "C:\\Users\\mizael.junior\\DEVELOPER\\FilmesAPI\\FilmeAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\dotconnect.express.for.postgresql\\7.20.1944\\dotconnect.express.for.postgresql.7.20.1944.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.5\\microsoft.entityframeworkcore.analyzers.5.0.5.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.5\\microsoft.entityframeworkcore.design.5.0.5.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.5\\microsoft.entityframeworkcore.relational.5.0.5.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.5\\microsoft.entityframeworkcore.tools.5.0.5.nupkg.sha512",
     "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\mizael.junior\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\5.0.5\\npgsql.entityframeworkcore.postgresql.5.0.5.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\pnukee.framework\\1.5.4.1\\pnukee.framework.1.5.4.1.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\pnukee.framework.postgresql.connector\\1.5.3.2\\pnukee.framework.postgresql.connector.1.5.3.2.nupkg.sha512",
     "C:\\Users\\mizael.junior\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\mizael.junior\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\mizael.junior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\mizael.junior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\mizael.junior\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'dotConnect.Express.for.PostgreSQL 7.20.1944' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net5.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "dotConnect.Express.for.PostgreSQL",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
 }
