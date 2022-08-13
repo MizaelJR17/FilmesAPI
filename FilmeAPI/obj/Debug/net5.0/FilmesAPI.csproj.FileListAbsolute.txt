@@ -55,3 +55,46 @@ C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\scopedcss\b
 C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.RazorTargetAssemblyInfo.cache
 C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.csproj.CopyComplete
 C:\Users\mizael.junior\DEVELOPER\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.StaticWebAssets.xml
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.exe
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.deps.json
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.json
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.dev.json
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\ref\FilmesAPI.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\FilmesAPI.pdb
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Devart.Data.PostgreSql.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Devart.Data.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Npgsql.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Pnukee.Framework.Core.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Pnukee.Framework.Standard.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Pnukee.Framework.PostgreSQLDataProvider.Core.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfoInputs.cache
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfo.cs
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.csproj.CoreCompileInputs.cache
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\scopedcss\bundle\FilmesAPI.styles.css
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\staticwebassets\FilmesAPI.StaticWebAssets.Manifest.cache
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.csproj.CopyComplete
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\ref\FilmesAPI.dll
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.pdb
+C:\Users\Zaky Junior\OneDrive\DEVELOPER - STUDENT\Projetos_C#\FilmesAPI\FilmeAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
